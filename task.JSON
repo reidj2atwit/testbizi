@@ -1,15 +1,5 @@
 [
   {
-    "taskID": "64fc7cef-0c07-4a3a-a96c-8f73bca97bc4",
-    "name": "tasks",
-    "assignee": "reidj2atwit",
-    "description": "",
-    "priority": "-",
-    "length": "-",
-    "currentProgress": "In Progress",
-    "sprint": 1
-  },
-  {
     "taskID": "f73bf148-b204-422a-910b-0ff2f3f9c280",
     "name": "test shii",
     "assignee": "reidj2atwit",
@@ -17,6 +7,16 @@
     "priority": "-",
     "length": "-",
     "currentProgress": "To Do",
+    "sprint": 1
+  },
+  {
+    "taskID": "64fc7cef-0c07-4a3a-a96c-8f73bca97bc4",
+    "name": "tasks",
+    "assignee": "reidj2atwit",
+    "description": "",
+    "priority": "-",
+    "length": "-",
+    "currentProgress": "Done",
     "sprint": 1
   }
 ]
